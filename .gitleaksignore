@@ -1,0 +1,4 @@
+# Fake AWS-key-shaped value used once in a botocore Stubber test (commit 4ff8c40), since replaced.
+# Not a credential; kept in history. See docs/SECURITY.md.
+4ff8c4009ddb4691a05c207f7881fd85b1d1a297:backend/tests/contract/test_aws_adapters.py:aws-access-token:657
+4ff8c4009ddb4691a05c207f7881fd85b1d1a297:backend/tests/contract/test_aws_adapters.py:aws-access-token:680
